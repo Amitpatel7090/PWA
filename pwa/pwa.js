@@ -3,7 +3,7 @@
  * https://github.com/jfadev/jfa-pwa-toolkit
  * license that can be found in the LICENSE file.
  *
- * @author AkshitVadodariya1201 <jfadev@gmail.com>
+ * @author AmitPatel7090 <jfadev@gmail.com>
  * @version 0.1
  *
  * @param {Object} PWA_CONFIG   PWA global configs
